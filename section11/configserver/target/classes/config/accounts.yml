@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Samuel Mbanisi -Developer"
+    email: "mbanisisamuel@gmail.com"
+  onCallSupport:
+     - (+234)8024789528
+     - (+234)8101022631

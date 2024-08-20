@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Arinze Nzelibe -QA Lead"
+    email: "arinzenzelibe@gmail.com"
+  onCallSupport:
+    -(+234)8024789527
+    -(+234)8101022630

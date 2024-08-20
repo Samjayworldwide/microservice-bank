@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Onyeka Obike -product owner"
+    email: "onyekaobike@gmail.com"
+  onCallSupport:
+    -(+234)8024789526
+    -(+234)8101022632

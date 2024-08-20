@@ -1,0 +1,29 @@
+
+^
+java:S17109"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8£¡éÂï1
+^
+java:S1710U"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8¦¡éÂï1
+^
+java:S1710n"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8§¡éÂï1
+_
+java:S1710‘"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8§¡éÂï1
+_
+java:S1710¸"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8¨¡éÂï1
+_
+java:S1710Ñ"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8©¡éÂï1
+_
+java:S1710ê"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ8©¡éÂï1
+_
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄŞ8è¡éÂï1
+_
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ8é¡éÂï1
+^
+java:S6353I"<Use concise character class syntax '\\d' instead of '[0-9]'.(˜¶Ÿ¤üÿÿÿÿ8ü¡éÂï1
+^
+java:S6353d"<Use concise character class syntax '\\d' instead of '[0-9]'.(˜¶Ÿ¤üÿÿÿÿ8†¢éÂï1
+_
+java:S6353¤"<Use concise character class syntax '\\d' instead of '[0-9]'.(˜¶Ÿ¤üÿÿÿÿ8–¢éÂï1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8ª¢éÂï1
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8«¢éÂï1

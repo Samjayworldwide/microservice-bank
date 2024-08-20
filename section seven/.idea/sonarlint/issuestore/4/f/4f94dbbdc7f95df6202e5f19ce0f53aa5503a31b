@@ -1,0 +1,26 @@
+
+W
+java:S1710V"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
+W
+java:S1710y"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
+X
+java:S1710¡"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
+X
+java:S1710»"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
+X
+java:S1710Õ"<Remove the 'ApiResponses' wrapper from this annotation group(Å¬†—üÿÿÿÿ
+X
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W
+java:S6353K"<Use concise character class syntax '\\d' instead of '[0-9]'.(˜¶Ÿ¤üÿÿÿÿ
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(˜¶Ÿ¤üÿÿÿÿ
+b
+java:S1128
+"GRemove this unused import 'io.swagger.v3.oas.annotations.info.Contact'.(Ç‚ ¡ÿÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
